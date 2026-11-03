@@ -1,0 +1,6 @@
+node_modules/
+.auth/
+.smoke/
+.downloads/
+.DS_Store
+*.log
